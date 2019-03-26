@@ -1,4 +1,4 @@
-package me.q9029.app.polly;
+package me.q9029.app.amazon.polly;
 
 import java.io.InputStream;
 

@@ -1,7 +1,9 @@
-package me.q9029.app.polly;
+package me.q9029.app.amazon.polly;
 
 import java.io.IOException;
 import java.io.InputStream;
+
+import me.q9029.app.amazon.polly.AmazonPollyService;
 
 public class SampleMain {
 
